@@ -1,6 +1,6 @@
 # npmdoc-uglifycss
 
-#### api documentation for  [uglifycss (v0.0.25)](https://github.com/fmarcia/UglifyCSS)  [![npm package](https://img.shields.io/npm/v/npmdoc-uglifycss.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-uglifycss) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-uglifycss.svg)](https://travis-ci.org/npmdoc/node-npmdoc-uglifycss)
+#### api documentation for  [uglifycss (v0.0.26)](https://github.com/fmarcia/UglifyCSS)  [![npm package](https://img.shields.io/npm/v/npmdoc-uglifycss.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-uglifycss) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-uglifycss.svg)](https://travis-ci.org/npmdoc/node-npmdoc-uglifycss)
 
 #### Port of YUI CSS Compressor to NodeJS
 
@@ -36,10 +36,10 @@
     "devDependencies": {},
     "directories": {},
     "dist": {
-        "shasum": "bea72bf4979eacef13a302cf47b2d1af3f344197",
-        "tarball": "https://registry.npmjs.org/uglifycss/-/uglifycss-0.0.25.tgz"
+        "shasum": "8d8a618ae5d8d9fc21eda7c79245ffbf5564edf6",
+        "tarball": "https://registry.npmjs.org/uglifycss/-/uglifycss-0.0.26.tgz"
     },
-    "gitHead": "f069004529e57023a464db170110bcfa12712b48",
+    "gitHead": "a85d7eed927a4aa417fd537330fc999993de1169",
     "homepage": "https://github.com/fmarcia/UglifyCSS",
     "keywords": [
         "css",
@@ -61,7 +61,7 @@
         "url": "git://github.com/fmarcia/UglifyCSS.git"
     },
     "scripts": {},
-    "version": "0.0.25"
+    "version": "0.0.26"
 }
 ```
 
